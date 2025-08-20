@@ -24,6 +24,7 @@ The application provides both **functionality** and an **interactive GUI**, maki
 
 ## 🖥️ Screenshots
 <img width="669" height="441" alt="image" src="https://github.com/user-attachments/assets/3a4c086a-4bd7-404b-9273-f824abcf9cea" />
+<img width="646" height="429" alt="image" src="https://github.com/user-attachments/assets/c781f54b-5aec-4273-8df0-aad187390e4d" />
 
 ## 🚀 Getting Started
 
