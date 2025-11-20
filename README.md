@@ -1,4 +1,4 @@
-# 🔐 Cipher Encoder (Caesar & One-Time Pad)
+# Cipher Encoder (Caesar & One-Time Pad)
 
 This project is a simple yet educational **cryptography application** that allows users to encode and decode messages using two classic ciphers:  
 
@@ -9,7 +9,7 @@ The application provides both **functionality** and an **interactive GUI**, maki
 
 ---
 
-## ✨ Features
+## Features
 - Caesar cipher implementation with configurable shift key.  
 - One-time pad cipher with randomly generated keys.  
 - Automatic wrap-around logic for alphabet boundaries.  
@@ -22,11 +22,11 @@ The application provides both **functionality** and an **interactive GUI**, maki
 
 ---
 
-## 🖥️ Screenshots
+## Screenshots
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/3a4c086a-4bd7-404b-9273-f824abcf9cea" />
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/c781f54b-5aec-4273-8df0-aad187390e4d" />
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java (JDK 8 or higher)  
